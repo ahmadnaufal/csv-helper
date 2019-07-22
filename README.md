@@ -5,8 +5,7 @@ Usage:
 
 ```sh
 $ python3 main.py -h
-usage: main.py [-h] [--output OUTPUT] --fields FIELDS [--include-headers]
-               source
+usage: main.py [-h] [--output OUTPUT] --fields FIELDS [--include-headers] source
 
 Process a selected CSV file.
 
